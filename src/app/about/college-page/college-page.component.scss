@@ -1,4 +1,4 @@
-@import "src/assets/styles/var";
+@import "assets/styles/var";
 
 .loading {
   display: flex;
@@ -40,7 +40,7 @@
   }
 
   ul {
-    order: 1
+    order: 1;
   }
 
   &__list {
